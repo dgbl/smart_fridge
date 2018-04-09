@@ -29,7 +29,7 @@ public class Zentrale {
     private static final WareList wList = new WareList();
     private static int MAX = 10;
     ServerSocket httpServerSocket = null;
-//    private final InetAddress SensorIP = InetAddress.getByName("141.100.42.140");
+//    private final InetAddress SensorIP = InetAddress.getByName("xxx.xxx.xx.xxx");
     InetAddress IPAddress = null;
     long start;
             
