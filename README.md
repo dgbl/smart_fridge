@@ -1,4 +1,3 @@
 # smart_fridge
 
-Code generirern:
-thrift -r --gen java order.thrift
+Code generierern: thrift -r --gen java order.thrift
